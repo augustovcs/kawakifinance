@@ -1,3 +1,5 @@
+#CLASS EXAMPLE FOR CONFIGURATION THE PROD BASE
+
 class DevelopmentConfig:
     DEBUG = True
     DATABASE_URL = "postgresql://user:pass@localhost/dev_db"
