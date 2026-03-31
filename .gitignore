@@ -1,7 +1,9 @@
 #PYTHON
 
+
+#CONFIG DEV
 \project\app\config_development
-C:\Users\augus\Documents\CODE\IDD2\project\app\config_development.py
+config_dev.py
 
 .venv
 __pycache__/
