@@ -1,5 +1,7 @@
 #PYTHON
 
+project\app\config_development.py
+
 .venv
 __pycache__/
 .pytest_cache/
